@@ -1,4 +1,4 @@
-# RocketMovies
+# RocketMovies | Rocketseat
 ## Application
 
 Front-End completo da aplicação feito em React.
